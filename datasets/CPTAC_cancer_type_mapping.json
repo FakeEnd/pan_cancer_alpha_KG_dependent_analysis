@@ -1,0 +1,10 @@
+{
+  "CCRCC_CPTAC_protein": 0,
+  "GBM_CPTAC_protein": 1,
+  "HNSCC_CPTAC_protein": 2,
+  "LSCC_CPTAC_protein": 3,
+  "LUAD_CPTAC_protein": 4,
+  "PDAC_CPTAC_protein": 5,
+  "UCEC_CPTAC1_protein": 6,
+  "UCEC_CPTAC2_protein": 7
+}
